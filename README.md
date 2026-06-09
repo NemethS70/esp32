@@ -8,3 +8,4 @@ In my case i had difficulties to identify and figure out how to wire the TFT.
 The pictures shows the wire functions and the connections by colors.
 
 After the TFT initialization screen may shifted, that can be corrected with the "setColRowStart(2, 1);" line in the Adafruit_ST7735.cpp file befor the initialization command.
+Blacklight pin not connected
